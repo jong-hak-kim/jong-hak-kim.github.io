@@ -6,15 +6,24 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your Blog Title
+title: Jong Hak
 description: '' # write a nice description for your blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: 'https://adueck.github.io' # the base hostname & protocol for your site http://www.example.com
+url: 'https://jong-hak-kim.github.io/' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
-twitter_username: 'twitter_username'
+github:
+  username: jong-hak-kim
+
+social:
+  name: Develop
+  email: whdgkr9070@naver.com
+  links:
+  - https://github.com/jong-hak-ki
 
 # Build settings
 markdown: kramdown
+
+toc: true
 
 permalink: '/:title/'
 
